@@ -1,12 +1,4 @@
-# This is the single line comment
-print("Hello Everyone")
-
-# For Mutli-line
-# we either use this "#" 
-print("Let's Learn Python together")
-
-'''
-    We can also use 
-    docstring as comments too
-'''
-print("Let's go")
+x = 5 
+y = 10
+z = x + y   # z will contain the addition value x and y
+print(z)    # This will give the output
