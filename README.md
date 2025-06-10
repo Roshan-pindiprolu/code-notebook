@@ -56,7 +56,7 @@ Please note:
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm [Your Name]! I'm learning software development and using this repo to stay organized and consistent in my studies. I'm passionate about:
+Hi, I'm Roshan Pindiprolu! I'm learning software development and using this repo to stay organized and consistent in my studies. I'm passionate about:
 - Solving problems through code 🧠
 - Documenting everything for future reference 🗒️
 - Sharing what I learn with others 🌱
